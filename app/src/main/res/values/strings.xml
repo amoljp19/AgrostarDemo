@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo App</string>
+    <string name="collapsing_toolbar_title">Welcome ABC!!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="errorInvalidUsername">Enter a valid username</string>
+    <string name="errorInvalidPassword">Enter a valid password</string>
+</resources>
